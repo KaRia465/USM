@@ -11,7 +11,7 @@
 <h2>SMK KUNAK'S MOTTO:</h2>
 <h2>"Eagerness For Glory"</h2>
 <h4>Pick your name</h4>
-<select name="Choose your name" style="width: 500px;">
+<select name="Choose your name">
 <option value="ADAM JASMI">Adam Jasmi</option>
 <option value="ADRIELLE KYRA">Adrielle Kyra</option>
 <option value="AHMAD IZHAM">Ahmad Izham</option>
